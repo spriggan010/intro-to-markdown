@@ -7,4 +7,9 @@
 #### Heading 4
 ##### Heading 5
 ##### Heading 6
+
 ---
+
+<!-- Italics -->
+
+_This is going to be a paragraph that is using italic styling
