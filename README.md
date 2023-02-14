@@ -28,3 +28,7 @@ _This is going to be a paragraph that is using italic styling_
 This is an example of **strong text** , anything between the two opening asterisk and two closing asterisk will be displayed as **strong text**
 
 This is another example of a way to have __strongtext__ in our document. Anything between the two double opening underscore and closing underscore will bed displayed as __strong text__.
+
+<!-- Strike Trough -->
+
+This is an example of a ~~strikethrough~~ text, anything in between the double tilde opening characters and closing doulbe tilde characters will be displayed as ~~strike through~~ text.
