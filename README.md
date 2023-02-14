@@ -59,3 +59,6 @@ This is an example of a *text with an asterisk*. When we don't want i t to be it
 
 **NOTE**: We would want to put the link description inside of square brackets and the link to the resource inside of two open and close parenthesis.
 [JRacca pexels collection profile](https://images.pexels.com/photos/10499104/pexels-photo-10499104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+__NOTE__: We can add a baloon title description to our lin k by using double quotes after the link to the resource.
+[JRacca pexels collection profile](https://images.pexels.com/photos/10499104/pexels-photo-10499104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1/ "JRACCA pexel photo")
