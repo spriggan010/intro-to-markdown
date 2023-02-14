@@ -62,3 +62,57 @@ This is an example of a *text with an asterisk*. When we don't want i t to be it
 
 __NOTE__: We can add a baloon title description to our lin k by using double quotes after the link to the resource.
 [JRacca pexels collection profile](https://images.pexels.com/photos/10499104/pexels-photo-10499104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1/ "JRACCA pexel photo")
+
+---
+
+<!-- List Item Rules -->
+
+<!-- Unordered Lists -->
+
+* Item 1 - This is going to be our list item 1
+  *  This is our list item 1 child item 1
+  *  This is our list item 2 child item 2
+* Item 2 - This is going to be our list item 2
+  *  This is our list itme 2 child item 1
+  *  This is our list itme 2 child item 2
+* Item 3 - This is going to be our list item 3
+  *  This is our list itme 3 child item 1
+  *  This is our list itme 3 child item 2 
+* Item 4 - This is going to be our list item 4
+  *  This is our list itme 4 child item 1
+  *  This is our list itme 4 child item 2 
+* Item 5 - This is going to be our list item 5
+  *  This is our list itme 5 child item 1 
+  *  This is our list itme 5 child item 2 
+
+<!-- Ordered List -->
+
+1. Item 1 - This is going to be our list item 1
+
+      1.  This is our list item 1 child item 1
+
+      3.  This is our list item 2 child item 2
+
+2. Item 2 - This is going to be our list item 2
+
+      1.  This is our list itme 2 child item 1
+
+      3.  This is our list itme 2 child item 2
+
+3. Item 3 - This is going to be our list item 3
+
+      1.  This is our list itme 3 child item 1
+
+      3.  This is our list itme 3 child item 2 
+
+4. Item 4 - This is going to be our list item 4
+
+      1.  This is our list itme 4 child item 1
+
+      3.  This is our list itme 4 child item 2 
+
+5. Item 5 - This is going to be our list item 5
+
+      1.  This is our list itme 5 child item 1 
+
+      3.  This is our list itme 5 child item 2 
