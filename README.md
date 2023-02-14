@@ -52,3 +52,10 @@ This is an example of a *text with an asterisk*. When we don't want i t to be it
 >We use the greater than symbol to display a block of text as a quote with a background and line on the left side.
 
 > *"You don't have to be great to start, but you need to start to be great."* - __Unknwon Author__
+
+---
+
+<!-- Link Rule -->
+
+**NOTE**: We would want to put the link description inside of square brackets and the link to the resource inside of two open and close parenthesis.
+[JRacca pexels collection profile](https://images.pexels.com/photos/10499104/pexels-photo-10499104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
