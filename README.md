@@ -144,3 +144,25 @@ npm install
 
 npm start
 ```
+
+**NOTE**: You can specify some syntax code blocks for different languages
+
+```javascript
+  function jsadd (num1,num2){
+    return num1 + num2;
+}
+```
+
+```python
+  def pythonAdd(um1,num2):
+    return num1 + num2;
+```
+
+```C#
+  public static int Sum(int num1, int num2)
+    {
+      int total;
+      total = num1 + num2;
+      return total;
+    }
+```
