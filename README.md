@@ -125,3 +125,22 @@ __NOTE__: We can add a baloon title description to our lin k by using double quo
 **NOTE**: *__Backtics__ will allow us to show the code block or the paragraph tags in this example. It is located below the tilde character and on top of the tab key*
 
 `<p> This is a paragraph tag with an inline codee block example opening ang closing tags </p>`
+
+
+---
+
+<!-- Image Rule -->
+
+![This is an image](https://images.pexels.com/photos/1404819/pexels-photo-1404819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 "Link to a cat image")
+
+---
+
+<!-- GITHUB FLAVOR SET OF CODE BLOCK -->
+
+<!-- CODE BLOCKS FOR GITHUB DOCUMENTATION -->
+
+```install npm
+npm install
+
+npm start
+```
