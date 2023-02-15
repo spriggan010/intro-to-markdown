@@ -166,3 +166,13 @@ npm start
       return total;
     }
 ```
+
+---
+
+<!-- Table Rules -->
+
+| Name | Nickname | Email               |
+|------|----------|-------              |
+|John  |Jo        |john@gmail.com       |
+|Jason |J         |spriggan010@yahoo.com|
+|Bart  |CoolKid   |testbart@gmail.com   |
